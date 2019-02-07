@@ -1,0 +1,1 @@
+web: ./build/install/todolist-58/bin/todolist-58
